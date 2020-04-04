@@ -6,7 +6,7 @@ import "./sticky.css"
 const Footer = () => (
   <footer
     style={{
-      background: `#F17A2C`,
+      background: `#0c9344`,
       marginBottom: `0`,
     }}
   >

@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Alfe Tissue Paper AB`,
+    title: `Scandanivia Paper Expert AB`,
     description: `Official Website`,
     author: `GTBS App Development`,
   },
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gtbs-alfe-main`,
-        short_name: `alfe`,
+        name: `gtbs-spe-main`,
+        short_name: `spe`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,

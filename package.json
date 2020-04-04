@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-default",
   "private": true,
-  "description": "Alfe Tissue Paper AB",
+  "description": "Scandanivia Paper Expert AB",
   "version": "0.1.0",
   "author": {
     "name": "Vedat Erenoglu",
@@ -44,6 +44,6 @@
   "repository": {
 
     "type": "git",
-    "url": "https://github.com/vedaterenoglu/gtbs-alfe-main.git"
+    "url": "https://github.com/vedaterenoglu/gtbs-spe-main.git"
   }
 }
